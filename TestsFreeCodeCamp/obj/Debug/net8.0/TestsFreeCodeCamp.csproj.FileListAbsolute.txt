@@ -1,0 +1,15 @@
+/workspaces/C-testProject/TestsFreeCodeCamp/bin/Debug/net8.0/TestsFreeCodeCamp
+/workspaces/C-testProject/TestsFreeCodeCamp/bin/Debug/net8.0/TestsFreeCodeCamp.deps.json
+/workspaces/C-testProject/TestsFreeCodeCamp/bin/Debug/net8.0/TestsFreeCodeCamp.runtimeconfig.json
+/workspaces/C-testProject/TestsFreeCodeCamp/bin/Debug/net8.0/TestsFreeCodeCamp.dll
+/workspaces/C-testProject/TestsFreeCodeCamp/bin/Debug/net8.0/TestsFreeCodeCamp.pdb
+/workspaces/C-testProject/TestsFreeCodeCamp/obj/Debug/net8.0/TestsFreeCodeCamp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-testProject/TestsFreeCodeCamp/obj/Debug/net8.0/TestsFreeCodeCamp.AssemblyInfoInputs.cache
+/workspaces/C-testProject/TestsFreeCodeCamp/obj/Debug/net8.0/TestsFreeCodeCamp.AssemblyInfo.cs
+/workspaces/C-testProject/TestsFreeCodeCamp/obj/Debug/net8.0/TestsFreeCodeCamp.csproj.CoreCompileInputs.cache
+/workspaces/C-testProject/TestsFreeCodeCamp/obj/Debug/net8.0/TestsFreeCodeCamp.sourcelink.json
+/workspaces/C-testProject/TestsFreeCodeCamp/obj/Debug/net8.0/TestsFreeCodeCamp.dll
+/workspaces/C-testProject/TestsFreeCodeCamp/obj/Debug/net8.0/refint/TestsFreeCodeCamp.dll
+/workspaces/C-testProject/TestsFreeCodeCamp/obj/Debug/net8.0/TestsFreeCodeCamp.pdb
+/workspaces/C-testProject/TestsFreeCodeCamp/obj/Debug/net8.0/TestsFreeCodeCamp.genruntimeconfig.cache
+/workspaces/C-testProject/TestsFreeCodeCamp/obj/Debug/net8.0/ref/TestsFreeCodeCamp.dll
